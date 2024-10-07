@@ -1,6 +1,1 @@
-# Ignore system files and user directories
-AppData/
-*.log
 node_modules/
-*.tmp
-*.bak
